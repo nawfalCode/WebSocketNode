@@ -1,0 +1,22 @@
+{
+  "name": "websocketnode",
+  "version": "1.0.0",
+  "description": "test websocket on node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawfalCode/WebSocketNode.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nawfalCode/WebSocketNode/issues"
+  },
+  "homepage": "https://github.com/nawfalCode/WebSocketNode#readme",
+  "dependencies": {
+    "websocket": "^1.0.21"
+  }
+}
